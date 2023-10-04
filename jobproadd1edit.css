@@ -1,0 +1,33 @@
+body{
+  background-color:#e8e8e8;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+  
+}
+.kassinda{
+	position:absolute;
+	left:610px;
+	top:560px;
+ padding:50px;
+ 
+  width: 550px;
+  background-color:#e8e8e8;
+  border-radius: 35px;
+  box-shadow: 2px 2px 10px rgba(30, 30, 30, 30);
+  overflow: hidden;
+  
+}
+
+p{
+float:left;
+margin:15px;
+width:700px;
+font-size:33;
+}
+.back{
+position:absolute;
+	right:100px;
+	top:800px;
+ padding:0px;
+ }

@@ -1,0 +1,44 @@
+body {
+margin:0;
+padding:0;
+background-color:;
+}
+
+#main-menuBar{
+    position: absolute;
+	width:100%;
+    background-color:rgba(0, 0, 0, 0.2);
+	height:50px;
+	
+	color:#fff;
+    z-index: 2;
+}
+#main-menuBar a{color:#fff;}
+#logo
+{
+	float:left;
+	padding:0px;
+	margin:0px 50px;
+	background-color:rgba(0, 0, 0, 0.2);
+	border:#000 solid 3px;
+	
+	border-radius:100px;
+}
+#main-menuBar ul
+{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+#main-menuBar ul li{
+font-size:22px;
+float:right;
+margin:15px 70px;
+
+}
+a{
+color:white;
+}
+#masterdiv a{
+color: blue;
+}

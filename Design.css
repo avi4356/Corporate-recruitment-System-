@@ -1,0 +1,264 @@
+﻿body {
+margin:0;
+padding:0;
+background-color:;
+}
+
+#main-menuBar{
+    position: absolute;
+	width:100%;
+    background-color:rgba(0, 0, 0, 0.8);
+	height:50px;
+	border-bottom:#000 solid 3px;
+	color:#fff;
+    z-index: 2;
+}
+#main-menuBar a{color:#fff;}
+#logo
+{
+	float:left;
+	padding:0px;
+	margin:0px 50px;
+	background-color:rgba(0, 0, 0, 0.2);
+	border:#000 solid 3px;
+	
+	border-radius:100px;
+}
+#main-menuBar ul
+{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+#main-menuBar ul li{
+font-size:22px;
+float:right;
+margin:15px 70px;
+
+}
+
+
+#provider ul{
+width:25%;
+height:500px;
+position:absolute;
+left:275px;
+top:1070px;
+display:block;
+background-color:;
+}
+#provider ul li{
+display:block;
+font-size:24px;
+height:50px;
+color:black;
+padding:25px;
+}
+
+#seeker ul{
+width:25%;
+height:500px;
+position:absolute;
+left:620px;
+top:1080px;
+display:block;
+background-color:;
+}
+#seeker ul li{
+display:block;
+font-size:24px;
+height:50px;
+color:black;
+padding:25px;
+list-style-type:none;
+}
+
+#search ul{
+width:25%;
+height:500px;
+position:absolute;
+left:925px;
+top:1078px;
+display:block;
+background-color:;
+}
+#search ul li{
+display:block;
+font-size:24px;
+height:50px;
+color:black;
+padding:25px;
+list-style-type:none;
+}
+
+#test ul{
+width:25%;
+height:500px;
+position:absolute;
+left:1250px;
+top:1070px;
+display:block;
+background-color:;
+}
+#test ul li{
+display:block;
+font-size:24px;
+height:50px;
+color:black;
+padding:25px;
+list-style-type:none;
+}
+
+
+a{
+color:black;
+}
+
+#imgs img 
+{
+    
+    width:100%;
+    height:100%;
+    position:absolute;
+    top:50px;
+    left:0;
+    transition: 1s;
+    visibility:hidden;
+    
+}
+
+#Snav 
+{
+    display:block;
+    width:100%;
+    height:100%;
+    position:absolute;
+    top:70px;
+    left:0;
+}
+
+#SnavUp 
+{
+    display:block;
+    width:100%;
+    height:20%;
+}
+#Scircles 
+{
+    display:block;
+    width:5%;
+    height:15%;
+    margin-right:5%;
+    margin-top:2%;
+    float:right;       
+}
+#Scircles ul 
+{
+    margin:0;
+    float:right;
+    display:block;
+    width:100%;
+    height:100%;
+}
+#Scircles li
+{
+    
+    list-style:none;
+    display:block;
+    background-color:rgba(0, 0, 0, 1);
+    width:25%;
+    height:90%;
+    margin-left:5%;
+    float:left;     
+    visibility:hidden;
+    
+    border-bottom-left-radius:25px;
+    border-top-left-radius:25px;
+    border-bottom-right-radius:25px;
+    border-top-right-radius:25px;
+
+}
+
+#SnavMiddle 
+{
+    display:block;
+    width:100%;
+    height:15%;
+    margin-top:10%;     
+}
+
+#Sleft 
+{
+    width:8%;
+    height:100%;
+    float:left;
+    margin-left:3%;
+    opacity:0.8;
+}
+
+#Sleft:hover 
+{
+    opacity:0.8;
+}
+#Sright 
+{
+    width:8%;
+    height:100%;
+    float:right;
+    margin-right:3%;
+    opacity:0.8;
+}
+#Sright:hover 
+{
+    opacity:0.8;
+}
+
+#SnavBottom 
+{
+    display:block;
+    background-color:rgba(0, 0, 0, 0.8);
+    width:100%;
+    height:10%;
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+#SnavBottom p 
+{
+    font:normal 200% Arial;
+    color:#fff;
+    position:absolute;
+    bottom:0;
+    left:0;
+    margin-left:3%;
+    visibility:hidden;
+}
+
+
+#Bar{
+    position: absolute;
+	width:100%;
+    height:20px;
+	z-index: 2;
+
+}
+#Bar a{color:#fff;}
+#logo1
+{
+	float:left;
+	padding:0px;
+	margin:0px 50px;
+	border-radius:100px;
+}
+#Bar ul
+{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+#Bar ul li{
+font-size:22px;
+float:right;
+margin:0px 2px;
+
+}

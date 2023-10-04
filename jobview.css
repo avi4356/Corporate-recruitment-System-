@@ -1,0 +1,32 @@
+body{
+  background-color:#e8e8e8;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+  
+}
+.form1 {
+	position:absolute;
+	left:150px;
+	top:350px;
+ padding:60px;
+ 
+  width: 860px;
+  background-color:#e8e8e8;
+  border-radius: 35px;
+  box-shadow: 2px 2px 10px rgba(30, 30, 30, 30);
+  overflow: hidden;
+  
+}
+#submitbut{
+position:absolute;
+top:520px;
+right:100px;
+
+}
+.back{
+position:absolute;
+	right:50px;
+	top:800px;
+ padding:0px;
+ }

@@ -1,0 +1,41 @@
+
+body{
+  background-color:#e8e8e8;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+  
+}
+.form1 {
+	position:absolute;
+	left:100px;
+	top:350px;
+ padding: 60px;
+ 
+  width: 900px;
+  background-color:#e8e8e8;
+  border-radius: 35px;
+  box-shadow: 2px 2px 10px rgba(30, 30, 30, 30);
+  overflow: hidden;
+  
+}
+ul{
+padding:0;
+margin:0;
+}
+li{
+float:left;
+margin:15px;
+width:400px;
+}
+input{
+margin:0px 10px;
+float:right;
+height:25px;
+}
+#submitbut{
+position:absolute;
+top:350px;
+right:120px;
+
+}
